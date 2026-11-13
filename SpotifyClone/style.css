@@ -109,3 +109,31 @@ a{
     opacity: 1;
     cursor: pointer;
 }
+
+.box{
+    background-color: #232323;
+    border-radius: 1rem;
+    height: auto;
+    margin: 1rem 0.4rem;
+    padding: 0.75rem 1rem;
+}
+
+.box-p1{
+    font-weight:bold;
+    font-size: 1rem;
+}
+
+.box-p2{
+    opacity: 0.8;
+}
+
+.badge{
+    background-color:white;
+    border: none;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    font-weight: 800;
+    margin-top: 0.5rem;
+    width:fit-content;
+    height: 2rem;
+}
